@@ -1,4 +1,4 @@
-# Digital-Fake-Image-Detection-Based-on-ANN-and-ML
+# Fake-Image-Detection
 
 **Image Tampering Detection using ELA and CNN**
 
